@@ -1,7 +1,5 @@
- 👋 Hi, I’m @Abdul-Jameel
- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning SAST , Cloud security 
-- 💞️ I’m looking to collaborate on learning about Ci/cd , devsecops 
+ 👋 Hi, I’m @Abdul-Jameel - Security Engineer Intern at Techolution 
+ 👀 I’m interested in  learning more about Cybersecurity - VAPT , SOC and cloud security  
 - 📫 Reach me on linkedin https://www.linkedin.com/in/mohd-abdul-jameel-305ax25/
 - ⚡ Fun fact: I'm from Electronics and communication background 
 
